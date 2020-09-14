@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HinxCompiler", "HinxCompiler\HinxCompiler.csproj", "{27588D7C-51AC-491F-AF10-5FBA088BF419}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestPlatform", "TestPlatform\TestPlatform.csproj", "{958F7621-A0F6-4178-AE02-7A4C752460C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27588D7C-51AC-491F-AF10-5FBA088BF419}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27588D7C-51AC-491F-AF10-5FBA088BF419}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27588D7C-51AC-491F-AF10-5FBA088BF419}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27588D7C-51AC-491F-AF10-5FBA088BF419}.Release|Any CPU.Build.0 = Release|Any CPU
+		{958F7621-A0F6-4178-AE02-7A4C752460C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{958F7621-A0F6-4178-AE02-7A4C752460C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{958F7621-A0F6-4178-AE02-7A4C752460C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{958F7621-A0F6-4178-AE02-7A4C752460C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {92ABFB73-AFD0-46FC-BADC-998AC4B5C72F}
+	EndGlobalSection
+EndGlobal
